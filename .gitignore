@@ -1,0 +1,9 @@
+coverage*
+.mise.toml
+.idea
+.env
+./remember
+*.log
+.__dev
+dist/
+gobrals

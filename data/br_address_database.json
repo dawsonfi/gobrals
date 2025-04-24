@@ -1,0 +1,442 @@
+{
+    "69940000": {
+      "cep": "69940000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200500",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Sena Madureira",
+      "cityNameAbbreviation": "Sena Madureira",
+      "deleted": "false",
+      "localityKey": 19
+    },
+    "69929000": {
+      "cep": "69929000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200385",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Plácido de Castro",
+      "cityNameAbbreviation": "Plácido Castro",
+      "deleted": "false",
+      "localityKey    ": 11059
+    },
+    "69928000": {
+      "cep": "69928000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200385",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Plácido de Castro",
+      "cityNameAbbreviation": "Plácido Castro",
+      "deleted": "false",
+      "loc    alityKey": 13
+    },
+    "69983000": {
+      "cep": "69983000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200351",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Marechal Thaumaturgo",
+      "cityNameAbbreviation": "Mal Thaumaturgo",
+      "deleted": "fal    se",
+      "localityKey": 12
+    },
+    "69945000": {
+      "cep": "69945000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200013",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Acrelândia",
+      "cityNameAbbreviation": "Acrelândia",
+      "deleted": "false",
+      "    localityKey": 1
+    },
+    "69935000": {
+      "cep": "69935000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200054",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Assis Brasil",
+      "cityNameAbbreviation": "Assis Brasil",
+      "deleted": "false",
+      "loc    alityKey": 2
+    },
+    "69932000": {
+      "cep": "69932000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200104",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Brasiléia",
+      "cityNameAbbreviation": "Brasiléia",
+      "deleted": "false",
+      "localityKey": 3
+    },
+    "69926000": {
+      "cep": "69926000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200138",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Bujari",
+      "cityNameAbbreviation": "Bujari",
+      "deleted": "false",
+      "localityKey": 4
+    },
+    "69931000    ": {
+      "cep": "69931000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200179",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Capixaba",
+      "cityNameAbbreviation": "Capixaba",
+      "deleted": "false",
+      "localityKey": 5
+    },
+    "69980000": {
+      "cep": "69980000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200203",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Cruzeiro do Sul",
+      "cityNameAbbreviation": "Cruzeiro Sul",
+      "deleted": "false",
+      "localityKey": 6
+    },
+    "69934000": {
+      "cep": "69934000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200252",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Epitaciolândia",
+      "cityNameAbbreviation": "Epitaciolândia",
+      "deleted": "false",
+      "localityKey": 7
+    },
+    "69960000": {
+      "cep": "69960000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200302",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Feijó",
+      "cityNameAbbreviation": "Feijó",
+      "deleted": "false",
+      "localityKey": 8
+    },
+    "69975000": {
+      "cep": "69975000",
+      "sta  te": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200328",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Jordão",
+      "cityNameAbbreviation": "Jordão",
+      "deleted": "false",
+      "localityKey": 9
+    },
+    "69990000": {
+      "cep": "69990000",
+      "state": "AC",
+      "ini  tialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200336",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Mâncio Lima",
+      "cityNameAbbreviation": "Mâncio Lima",
+      "deleted": "false",
+      "localityKey": 10
+    },
+    "69950000": {
+      "cep": "69950000",
+      "state": "AC",
+      "initial  District": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200344",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Manoel Urbano",
+      "cityNameAbbreviation": "Manoel Urbano",
+      "deleted": "false",
+      "localityKey": 11
+    },
+    "69927000": {
+      "cep": "69927000",
+      "state": "AC",
+      "initial  District": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200807",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Porto Acre",
+      "cityNameAbbreviation": "Pto Acre",
+      "deleted": "false",
+      "localityKey": 14
+    },
+    "69982000": {
+      "cep": "69982000",
+      "state": "AC",
+      "initialDistrict  ": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200393",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Porto Walter",
+      "cityNameAbbreviation": "Pto Walter",
+      "deleted": "false",
+      "localityKey": 15
+    },
+    "69985000": {
+      "cep": "69985000",
+      "state": "AC",
+      "initialDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200427",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Rodrigues Alves",
+      "cityNameAbbreviation": "Rodrigues Alves",
+      "deleted": "false",
+      "localityKey": 17
+    },
+    "69955000": {
+      "cep": "69955000",
+      "state": "AC",
+      "initialDistrict  ": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200435",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Santa Rosa do Purus",
+      "cityNameAbbreviation": "Sta Rosa Purus",
+      "deleted": "false",
+      "localityKey": 18
+    },
+    "69925000": {
+      "cep": "69925000",
+      "state": "AC",
+      "initialD  istrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200450",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Senador Guiomard",
+      "cityNameAbbreviation": "Sen Guiomard",
+      "deleted": "false",
+      "localityKey": 20
+    },
+    "69930000": {
+      "cep": "69930000",
+      "state": "AC",
+      "initia  lDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200708",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Xapuri",
+      "cityNameAbbreviation": "Xapuri",
+      "deleted": "false",
+      "localityKey": 22
+    },
+    "69970000": {
+      "cep": "69970000",
+      "state": "AC",
+      "initialDistrict": {
+        "  key": null,
+        "name": "----------"
+      },
+      "finalDistrict": {
+        "key": null,
+        "name": "----------"
+      },
+      "municipality": "1200609",
+      "addressLine": "",
+      "addressLineAbbreviation": "",
+      "metadata": "",
+      "city": "Tarauacá",
+      "cityNameAbbreviation": "Tarauacá",
+      "deleted": "false",
+      "localityKey": 21
+    }
+  }
