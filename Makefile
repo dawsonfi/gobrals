@@ -19,9 +19,6 @@ test_stress:
 test_codecov:
 	go test -coverprofile=coverage.out -covermode=atomic ./...
 
-test_reconnect:
-	go test -tags=reconnect ./...
-
 build:
 	go build ./...
 

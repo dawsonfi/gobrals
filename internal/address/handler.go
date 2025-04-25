@@ -11,10 +11,10 @@ type Fetcher interface {
 }
 
 type Handler struct {
-	fetcher Fetcher
+	fetcher *Service
 }
 
-func NewHandler(fetcher Fetcher) *Handler {
+func NewHandler(fetcher *Service) *Handler {
 	return &Handler{fetcher: fetcher}
 }
 

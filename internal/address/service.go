@@ -8,7 +8,7 @@ type Service struct {
 	ZipDatabase ZipDatabase
 }
 
-func NewService(databaseLoader DatabaseLoader) (*Service, error) {
+func NewService(databaseLoader *JsonZipDatabaseLoader) (*Service, error) {
 	zipDatabase, err := databaseLoader.Load()
 	if err != nil {
 		return nil, err
